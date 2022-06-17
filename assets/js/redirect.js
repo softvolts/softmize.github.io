@@ -1,1 +1,5 @@
-!function(global){}(this)
+!function(global){
+  'use strict';
+  
+  global.location.replace('/edits')
+}(this)
